@@ -32,5 +32,7 @@ module.exports = {
     } 
     
     return numberFound;
-  }
+  },
+  
+  timeComplexity: 'lg n'
 }
