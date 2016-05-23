@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
-    "test": "mocha spec/algorithmsSpec.js -w"
+    "test": "mocha spec/ -w"
   },
   "repository": {
     "type": "git",
