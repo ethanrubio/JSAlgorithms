@@ -1,5 +1,5 @@
 module.exports = {
-  binarySearch: function(array, target) {
+  binarySearch: (array, target) => {
     // psuedocode
     // 1. let min = 0 and max = n - 1.
     // 2. if max < min, then stop
